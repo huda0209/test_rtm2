@@ -1,0 +1,11 @@
+{
+    "signalName":"test-aaaaaa",
+    "model":{
+        "modelFile":"aaaaaa.mqo",
+        "textures":[["default","textures/signal/texture-40.png","Light"]],
+        "rendererPath":"scripts/test12.js"
+    },
+    "smoothing":true,
+    "doCulling":true,
+    "buttonTexture":"textures/signal/button40.png"
+}
